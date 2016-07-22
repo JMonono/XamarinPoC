@@ -1,0 +1,4 @@
+﻿<Properties StartupItem="Droid/Phoneword.Droid.csproj" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.ItemProperties.Phoneword.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B0553C93-7967-40AD-A361-1493C81CCF00" />
+  <MonoDevelop.Ide.ItemProperties.Phoneword.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86_X86_google_apis" />
+</Properties>
