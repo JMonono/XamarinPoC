@@ -1,0 +1,6 @@
+﻿<Properties StartupItem="Phoneword.Forms/iOS/Phoneword.iOS.csproj">
+  <MonoDevelop.Ide.ItemProperties.Phoneword.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CE189DB3-6035-400E-BAA1-3DB4908B5654" />
+  <DisabledProjects>
+    <String>Phoneword/Phoneword.csproj</String>
+  </DisabledProjects>
+</Properties>
